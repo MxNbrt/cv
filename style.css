@@ -58,7 +58,7 @@ a:focus {
   margin-bottom: 0;
 }
 .sidebar .container-block {
-  padding: 20px 30px;
+  padding: 30px;
 }
 .sidebar .container-block-title {
   text-transform: uppercase;
@@ -127,9 +127,15 @@ a:focus {
   margin-top: 6px;
 }
 .main .section {
-  margin-bottom: 60px;
+  margin-bottom: 50px;
 }
 .main .section:last-child {
+  margin-bottom: 0;
+}
+.main .summary {
+  margin-bottom: 20px;
+}
+.main .summary:last-child {
   margin-bottom: 0;
 }
 .main .experiences-section .item {
