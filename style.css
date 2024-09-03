@@ -42,9 +42,10 @@ a:focus {
   font-size: 32px;
 }
 .sidebar .profile img {
-  width: 180px;
+  width: 150px;
   height: 100%;
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 .sidebar .svg-inline--fa {
   margin-right: 5px;
